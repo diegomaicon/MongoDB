@@ -7,8 +7,7 @@ public class Cliente {
 
     public static void main(String[] args) {
 
-        TEste
-
+          System.out.println();
 
     }
 }
